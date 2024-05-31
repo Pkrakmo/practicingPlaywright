@@ -40,3 +40,29 @@ And check out the following files:
 
 
   Remember dotenv: URL="https://example.com"
+
+
+
+
+  -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+      Started: Fri May 31 2024 20:40:53 GMT+0200 (sentraleuropeisk sommertid)
+      Runtime: 123527
+      :large_green_circle: 1 | :red_circle: 12
+      -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+      Failed: []
+      Timed out: [
+  "example.spec.ts:27:7",
+  "example.spec.ts:27:7",
+  "example.spec.ts:16:5",
+  "example.spec.ts:27:7",
+  "example.spec.ts:27:7",
+  "example.spec.ts:16:5",
+  "example.spec.ts:27:7",
+  "example.spec.ts:16:5",
+  "example.spec.ts:27:7",
+  "example.spec.ts:27:7",
+  "example.spec.ts:27:7",
+  "example.spec.ts:16:5"
+]
+      Skipped: []
+      -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
